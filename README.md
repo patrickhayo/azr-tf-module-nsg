@@ -1,6 +1,6 @@
-# azr-tf-module-template
+# azr-tf-module-nsg
 
-[Terraform](https://www.terraform.io) Module to create **[NAME]** in Azure
+[Terraform](https://www.terraform.io) Module to create **Network Securitz Group (NSG)** in Azure
 
 <!-- BEGIN_TF_DOCS -->
 ## Prerequisites
